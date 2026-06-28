@@ -28,7 +28,11 @@
   </url><url>
     <loc>https://arkalim.netlify.app/experience/grandfrais/</loc>
   </url><url>
+    <loc>https://arkalim.netlify.app/tags/agile/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/tags/angular/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/apache/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/blade/</loc>
   </url><url>
@@ -40,9 +44,17 @@
   </url><url>
     <loc>https://arkalim.netlify.app/tags/eloquent/</loc>
   </url><url>
+    <loc>https://arkalim.netlify.app/tags/%C3%A9quipe/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/experience/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/flask/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/fullstack/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/git/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/gitlab/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/html/</loc>
   </url><url>
@@ -64,17 +76,27 @@
   </url><url>
     <loc>https://arkalim.netlify.app/tags/php/</loc>
   </url><url>
+    <loc>https://arkalim.netlify.app/tags/phpmyadmin/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/projects/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/python/</loc>
   </url><url>
+    <loc>https://arkalim.netlify.app/tags/react/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/react-native/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/search/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/scrum/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/typescript/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/vite/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/wampserver/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/web/</loc>
   </url>

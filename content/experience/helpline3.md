@@ -3,7 +3,7 @@ title: "Stage | Amélioration d'un site web interne Helpline"
 description: "Helpline Lille | Marcq-en-Baroeul, France"
 dateString: Mai 2025 - Juillet 2025
 draft: false
-tags: []
+tags: [HTML, CSS, JavaScript, PHP, phpmyadmin, Apache, WAMPServer]
 showToc: false
 weight: 150
 cover:

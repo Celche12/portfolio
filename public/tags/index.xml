@@ -8,10 +8,24 @@
     <language>en-us</language>
     <atom:link href="https://arkalim.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agile</title>
+      <link>https://arkalim.netlify.app/tags/agile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/agile/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Angular</title>
       <link>https://arkalim.netlify.app/tags/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arkalim.netlify.app/tags/angular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache</title>
+      <link>https://arkalim.netlify.app/tags/apache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/apache/</guid>
       <description></description>
     </item>
     <item>
@@ -36,10 +50,38 @@
       <description></description>
     </item>
     <item>
+      <title>Équipe</title>
+      <link>https://arkalim.netlify.app/tags/%C3%A9quipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/%C3%A9quipe/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Flask</title>
       <link>https://arkalim.netlify.app/tags/flask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arkalim.netlify.app/tags/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fullstack</title>
+      <link>https://arkalim.netlify.app/tags/fullstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/fullstack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://arkalim.netlify.app/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitLab</title>
+      <link>https://arkalim.netlify.app/tags/gitlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/gitlab/</guid>
       <description></description>
     </item>
     <item>
@@ -113,10 +155,38 @@
       <description></description>
     </item>
     <item>
+      <title>Phpmyadmin</title>
+      <link>https://arkalim.netlify.app/tags/phpmyadmin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/phpmyadmin/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Python</title>
       <link>https://arkalim.netlify.app/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arkalim.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://arkalim.netlify.app/tags/react/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React Native</title>
+      <link>https://arkalim.netlify.app/tags/react-native/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/react-native/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scrum</title>
+      <link>https://arkalim.netlify.app/tags/scrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/scrum/</guid>
       <description></description>
     </item>
     <item>
@@ -131,6 +201,13 @@
       <link>https://arkalim.netlify.app/tags/vite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arkalim.netlify.app/tags/vite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WAMPServer</title>
+      <link>https://arkalim.netlify.app/tags/wampserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/tags/wampserver/</guid>
       <description></description>
     </item>
     <item>
