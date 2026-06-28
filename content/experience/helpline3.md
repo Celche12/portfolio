@@ -1,7 +1,7 @@
 ---
 title: "Stage Fullstack | Amélioration d'un site web interne Helpline"
 description: "Helpline Lille | Marcq-en-Baroeul, France"
-dateString: Juillet 2023 - Octobre 2023
+dateString: Mai 2025 - Juillet 2025
 draft: false
 tags: []
 showToc: false
