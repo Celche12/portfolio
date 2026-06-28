@@ -5,7 +5,7 @@ dateString: Octobre 2025 - Février 2026
 draft: false
 tags: ["React Native", "Mobile", "IA", "YOLO", "Expo Go", "Équipe"]
 showToc: false
-weight: 20
+weight: 10
 --- 
 ### 🔗 [GitHub](https://github.com/Celche12/sa-3-01-phase-2)
 
