@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.netlify.app"
+baseURL: "https://celche12.github.io/portfolio-master/"
 languageCode: en-us
-title: Maxime Chemin
+title: Céleste Chemin
 theme: PaperMod
 
 menu:
@@ -44,8 +44,8 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Maxime Chemin"
-    subtitle: Développeur informatique de 20 ans, je suis à la recherche d'une alternance d'un an à partir de la rentrée 2025. Vous trouverez ici mon CV, mes réseaux, les différents projets réalisés dans le cadre de mes études et mes précédentes expériences professionnelles.
+    title: "Céleste Chemin"
+    subtitle: Développeuse informatique de 21 ans, je suis à la recherche d'un poste à temps plein à partir de la rentrée 2026. Vous trouverez ici mon CV, mes réseaux, les différents projets réalisés dans le cadre de mes études et mes précédentes expériences professionnelles.
 
  
     imageUrl: "home/me.jpg"
@@ -65,11 +65,11 @@ params:
 
   socialIcons:
     # - name: "email"
-    #  url: "maxime.chemin59551@gmail.com"
+    #  url: "Céleste.chemin59551@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/maxime-chemin/"
+      url: "https://www.linkedin.com/in/celeste-chemin/"
     - name: "github"
-      url: "https://github.com/Maxche124"
+      url: "https://github.com/Celche12"
 
   # text search
   fuseOpts:
@@ -93,3 +93,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>OAuth2.0 on Maxime Chemin</title>
+    <title>OAuth2.0 on Céleste Chemin</title>
     <link>http://localhost:50605/tags/oauth2.0/</link>
-    <description>Recent content in OAuth2.0 on Maxime Chemin</description>
+    <description>Recent content in OAuth2.0 on Céleste Chemin</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:50605/tags/oauth2.0/index.xml" rel="self" type="application/rss+xml" />
@@ -16,3 +16,4 @@
     </item>
   </channel>
 </rss>
+

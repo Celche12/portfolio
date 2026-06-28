@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LSTM on Maxime Chemin</title>
-    <link>http://localhost:1313/tags/lstm/</link>
-    <description>Recent content in LSTM on Maxime Chemin</description>
+    <title>LSTM on Céleste Chemin</title>
+    <link>https://celche12.github.io/portfolio-master/tags/lstm/</link>
+    <description>Recent content in LSTM on Céleste Chemin</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://celche12.github.io/portfolio-master/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Image Captioning (Bachelor Thesis)</title>
-      <link>http://localhost:1313/projects/automated-image-captioning/</link>
+      <link>https://celche12.github.io/portfolio-master/projects/automated-image-captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/automated-image-captioning/</guid>
+      <guid>https://celche12.github.io/portfolio-master/projects/automated-image-captioning/</guid>
       <description>Can computers summarize the contents of an image?</description>
     </item>
   </channel>
 </rss>
+
+
