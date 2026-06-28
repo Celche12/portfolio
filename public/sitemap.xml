@@ -2,64 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/marathon2024/</loc>
+    <loc>https://arkalim.netlify.app/projects/autoroute404/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/lensjudge/</loc>
+    <loc>https://arkalim.netlify.app/projects/marathon2024/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/lensjudge2/</loc>
+    <loc>https://arkalim.netlify.app/projects/lensjudge/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/chatsparminous/</loc>
+    <loc>https://arkalim.netlify.app/projects/lensjudge2/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/bomberman/</loc>
+    <loc>https://arkalim.netlify.app/projects/chatsparminous/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/justeprime/</loc>
+    <loc>https://arkalim.netlify.app/projects/bomberman/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/helpline2/</loc>
+    <loc>https://arkalim.netlify.app/experience/helpline3/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/helpline/</loc>
+    <loc>https://arkalim.netlify.app/projects/justeprime/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/grandfrais/</loc>
+    <loc>https://arkalim.netlify.app/experience/helpline2/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/blade/</loc>
+    <loc>https://arkalim.netlify.app/experience/helpline/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://arkalim.netlify.app/experience/kiabi/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://arkalim.netlify.app/experience/grandfrais/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/eloquent/</loc>
+    <loc>https://arkalim.netlify.app/tags/angular/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://arkalim.netlify.app/tags/blade/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/flask/</loc>
+    <loc>https://arkalim.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://arkalim.netlify.app/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://arkalim.netlify.app/tags/css/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://arkalim.netlify.app/tags/eloquent/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/jinja/</loc>
+    <loc>https://arkalim.netlify.app/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/laravel/</loc>
+    <loc>https://arkalim.netlify.app/tags/flask/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://arkalim.netlify.app/tags/html/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/patrons-de-conception/</loc>
+    <loc>https://arkalim.netlify.app/tags/java/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/php/</loc>
+    <loc>https://arkalim.netlify.app/tags/javascript/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://arkalim.netlify.app/tags/jinja/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://arkalim.netlify.app/tags/kotlin/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://arkalim.netlify.app/tags/laravel/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://arkalim.netlify.app/tags/material/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/vite/</loc>
+    <loc>https://arkalim.netlify.app/tags/mobile/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/web/</loc>
+    <loc>https://arkalim.netlify.app/tags/patrons-de-conception/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/php/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/projects/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/python/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/search/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/typescript/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/vite/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/web/</loc>
   </url>
 </urlset>
-
-

@@ -2,30 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Experiences on Céleste Chemin</title>
-    <link>http://localhost:1313/experience/</link>
+    <link>https://arkalim.netlify.app/experience/</link>
     <description>Recent content in Experiences on Céleste Chemin</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arkalim.netlify.app/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stage | Amélioration d&#39;un site web interne Helpline</title>
+      <link>https://arkalim.netlify.app/experience/helpline3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/experience/helpline3/</guid>
+      <description>Helpline Lille | Marcq-en-Baroeul, France</description>
+    </item>
     <item>
       <title>Stage Technicien | Migration de Microsoft Access à PowerBI</title>
-      <link>http://localhost:1313/experience/helpline2/</link>
+      <link>https://arkalim.netlify.app/experience/helpline2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/helpline2/</guid>
+      <guid>https://arkalim.netlify.app/experience/helpline2/</guid>
       <description>Helpline Lille | Marcq-en-Baroeul, France</description>
     </item>
     <item>
       <title>Technicien Helpdesk</title>
-      <link>http://localhost:1313/experience/helpline/</link>
+      <link>https://arkalim.netlify.app/experience/helpline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/helpline/</guid>
+      <guid>https://arkalim.netlify.app/experience/helpline/</guid>
       <description>Helpline Lille | Marcq-en-Baroeul, France</description>
     </item>
     <item>
-      <title>Employé Libre Service</title>
-      <link>http://localhost:1313/experience/grandfrais/</link>
+      <title>Employée de rayon</title>
+      <link>https://arkalim.netlify.app/experience/kiabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/grandfrais/</guid>
+      <guid>https://arkalim.netlify.app/experience/kiabi/</guid>
+      <description>Kiabi | Augny, Centre Commercial Waves, France</description>
+    </item>
+    <item>
+      <title>Employé Libre Service</title>
+      <link>https://arkalim.netlify.app/experience/grandfrais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/experience/grandfrais/</guid>
       <description>Grand Frais | Seclin, France</description>
     </item>
   </channel>

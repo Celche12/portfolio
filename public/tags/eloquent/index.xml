@@ -2,27 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eloquent on Céleste Chemin</title>
-    <link>http://localhost:1313/tags/eloquent/</link>
+    <link>https://arkalim.netlify.app/tags/eloquent/</link>
     <description>Recent content in Eloquent on Céleste Chemin</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/eloquent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arkalim.netlify.app/tags/eloquent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marathon Web 2024</title>
-      <link>http://localhost:1313/projects/marathon2024/</link>
+      <link>https://arkalim.netlify.app/projects/marathon2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/marathon2024/</guid>
+      <guid>https://arkalim.netlify.app/projects/marathon2024/</guid>
       <description>Création d&amp;#39;un &amp;#34;réseau social&amp;#34; autour des voyages</description>
     </item>
     <item>
       <title>LensJudge suite (site web)</title>
-      <link>http://localhost:1313/projects/lensjudge2/</link>
+      <link>https://arkalim.netlify.app/projects/lensjudge2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/lensjudge2/</guid>
+      <guid>https://arkalim.netlify.app/projects/lensjudge2/</guid>
       <description>Création d&amp;#39;un site web permettant d&amp;#39;accueillir le juge automatique</description>
     </item>
   </channel>
 </rss>
-
-
-
