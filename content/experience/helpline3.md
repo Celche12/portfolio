@@ -1,11 +1,11 @@
 ---
-title: "Stage Fullstack | Amélioration d'un site web interne Helpline"
+title: "Stage | Amélioration d'un site web interne Helpline"
 description: "Helpline Lille | Marcq-en-Baroeul, France"
 dateString: Mai 2025 - Juillet 2025
 draft: false
 tags: []
 showToc: false
-weight: 210
+weight: 150
 cover:
     image: "/experience/helpline/helpline_logo.png"
 ---
@@ -21,5 +21,7 @@ En frontend, j’ai repensé l’ergonomie, la navigation et la présentation de
 En backend, j’ai développé la logique PHP nécessaire pour connecter le site à une base de données, lire et écrire les informations, et rendre les pages dynamiques plutôt que purement statiques.
 
 Le résultat a permis aux employés de modifier plus simplement les contenus du site sans toucher directement au code HTML, tout en conservant une expérience visuelle cohérente avec l’image de l’entreprise.
+
+Étant donné le fait que ce site web allait rester un outil interne à l'entreprise, nous avons décidé d'opter pour l'option d'utiliser WampServer pour le développement local et l'hébergement du site. L'équipe de sécurité s'est chargée de faire en sorte que les fichiers de configuration du site ne soient pas accessibles aux employés et de les sécuriser au maximum.
 
 ![](/experience/helpline/helpline_logo.png#center)
