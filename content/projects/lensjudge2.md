@@ -7,7 +7,7 @@ tags: ["Laravel", "PHP", "Eloquent", "Blade", "Vite", "Web"]
 showToc: false
 weight: 120
 --- 
-### 🔗 [GitHub](https://github.com/Maxche124/sa-3-01-phase-2)
+### 🔗 [GitHub](https://github.com/Celche12/sa-3-01-phase-2)
 
 ## Description
 

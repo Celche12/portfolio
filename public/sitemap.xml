@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arkalim.netlify.app/projects/applimobileyolo/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/projects/autoroute404/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/projects/marathon2024/</loc>
@@ -48,6 +50,8 @@
   </url><url>
     <loc>https://arkalim.netlify.app/experience/</loc>
   </url><url>
+    <loc>https://arkalim.netlify.app/tags/expo-go/</loc>
+  </url><url>
     <loc>https://arkalim.netlify.app/tags/flask/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/fullstack/</loc>
@@ -57,6 +61,8 @@
     <loc>https://arkalim.netlify.app/tags/gitlab/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/html/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/ia/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/java/</loc>
   </url><url>
@@ -99,5 +105,7 @@
     <loc>https://arkalim.netlify.app/tags/wampserver/</loc>
   </url><url>
     <loc>https://arkalim.netlify.app/tags/web/</loc>
+  </url><url>
+    <loc>https://arkalim.netlify.app/tags/yolo/</loc>
   </url>
 </urlset>

@@ -7,7 +7,7 @@ tags: ["Flask", "Python", "Jinja", "Web"]
 showToc: false
 weight: 200
 --- 
-### 🔗 [GitHub](https://github.com/Maxche124/juste-prime)
+### 🔗 [GitHub](https://github.com/Celche12/juste-prime)
 
 ## Description
 

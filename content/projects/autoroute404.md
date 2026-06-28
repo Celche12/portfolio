@@ -7,7 +7,7 @@ tags: ["Angular", "TypeScript", "Material", "Mobile", "Kotlin", "Laravel", "PHP"
 showToc: false
 weight: 20
 --- 
-### 🔗 [GitHub](https://github.com/Maxche124/sa-3-01-phase-2)
+### 🔗 [GitHub](https://github.com/Celche12/sa-3-01-phase-2)
 
 ## Description
 

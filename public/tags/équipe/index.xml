@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://arkalim.netlify.app/tags/%C3%A9quipe/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Application Mobile YOLO reconnaissance alphabet LSF</title>
+      <link>https://arkalim.netlify.app/projects/applimobileyolo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arkalim.netlify.app/projects/applimobileyolo/</guid>
+      <description>Création d&amp;#39;une application mobile permettant de reconnaître l&amp;#39;alphabet de la Langue des Signes Française via la caméra du téléphone</description>
+    </item>
+    <item>
       <title>Alternance | Développement web/mobile Fullstack</title>
       <link>https://arkalim.netlify.app/experience/sapaig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

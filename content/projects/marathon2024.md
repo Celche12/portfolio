@@ -7,7 +7,7 @@ tags: ["Laravel", "PHP", "Eloquent", "Blade", "Vite", "Web"]
 showToc: false
 weight: 50
 --- 
-### 🔗 [GitHub](https://github.com/Maxche124/marathon-web-24)
+### 🔗 [GitHub](https://github.com/Celche12/marathon-web-24)
 
 ## Description
 

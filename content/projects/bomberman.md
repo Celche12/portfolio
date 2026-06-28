@@ -7,7 +7,7 @@ tags: ["Java", "Patrons de conception"]
 showToc: false
 weight: 150
 --- 
-### 🔗 [GitHub](https://github.com/Maxche124/bomberman)
+### 🔗 [GitHub](https://github.com/Celche12/bomberman)
 
 ## Description
 

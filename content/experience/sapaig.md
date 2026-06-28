@@ -3,7 +3,7 @@ title: "Alternance | Développement web/mobile Fullstack"
 description: "SAPAIG | Bousse, France"
 dateString: Septembre 2025 - Août 2026
 draft: false
-tags: [React, React Native, PHP, Mobile, Fullstack, Agile, Scrum, Git, GitLab, Équipe]
+tags: ["React", "React Native", "PHP", "Mobile", "Fullstack", "Agile", "Scrum", "Git", "GitLab", "Équipe"]
 showToc: false
 weight: 100
 cover:
